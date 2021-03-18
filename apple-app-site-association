@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "ADK45HBZ8N.com.koia.Koia.dev" ],
+             "appIDs": [ "ADK45HBZ8N.com.koia.Koia.debug" ],
              "components": [
                {
                   "/": "/*",
