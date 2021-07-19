@@ -6,7 +6,8 @@
              "components": [
                {
                   "/": "/*",
-                  "comment": "Matches any URL whose path starts with /"
+                  "#": "verify",
+                  "comment": "Matches any URL whose path starts with /verify"
                }
              ]
            }
