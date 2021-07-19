@@ -4,8 +4,8 @@
 		"details": [{
 			"appIDs": ["ADK45HBZ8N.com.koia.Koia"],
 			"components": [{
-				"#": "verify",
-				"comment": "Matches any URL whose path starts with /verify"
+				"?": "v=?*",
+				"comment": "Matches any URL with a query parameter starting with v"
 			}]
 		}]
 	}
