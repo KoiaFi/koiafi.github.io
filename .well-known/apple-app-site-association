@@ -4,7 +4,7 @@
 		"details": [{
 			"appIDs": ["ADK45HBZ8N.com.koia.Koia"],
 			"components": [{
-				"?": "t=?*",
+				"?": { "t" : "?*" },
 				"comment": "Matches any URL with a query parameter starting with v"
 			}]
 		}]
