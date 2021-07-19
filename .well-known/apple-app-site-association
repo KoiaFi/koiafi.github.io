@@ -1,14 +1,11 @@
 {
   "applinks": {
+      "apps": [],
       "details": [
            {
-             "appIDs": [ "ADK45HBZ8N.com.koia.Koia" ],
-             "components": [
-               {
-                  "/": "/*",
-                  "#": "verify",
-                  "comment": "Matches any URL whose path starts with /verify"
-               }
+             "appID": "ADK45HBZ8N.com.koia.Koia",
+             "paths": [
+               "/verify*"
              ]
            }
        ]
