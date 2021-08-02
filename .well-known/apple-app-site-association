@@ -2,7 +2,7 @@
 	"applinks": {
 		"apps": [],
 		"details": [{
-			"appIDs": ["59YW7MGS55.com.koia.Koia"],
+			"appIDs": ["59YW7MGS55.com.koia.Koia", "ADK45HBZ8N.com.koia.Koia"],
 			"components": [{
 				"?": { "t" : "?*" },
 				"comment": "Matches any URL with a query parameter starting with v"
